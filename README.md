@@ -1,1 +1,1 @@
-# devops-task
+# Flask application
